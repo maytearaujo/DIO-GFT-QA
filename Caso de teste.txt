@@ -1,0 +1,15 @@
+Caso de Teste
+
+- Cenário I
+Como cliente
+Quero acessar a página de logindo usuário, 
+Preencher campos em branco
+Fazer login com sucesso 
+Acessar a página de vendas
+Escolher o produto e colocar no carrinho
+
+- Cenário II
+Como Cliente
+Quero acessar a página de logindo usuário, 
+Preencher campos em branco erroneamente
+Receber na tela mensagem de erro 
